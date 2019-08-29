@@ -19,7 +19,8 @@ most popular yet ever changing Artificial Intelligence Algorithms and Techniques
 Benifit
 	-> The Well Documented Algorithms and use cases can be use as Tutorial.
 	-> Algorithmic Approach to Problem Solving
-	-> One Algorithm can be use in any other game resulting in more performant way. As more the training with more data the more experienced algorithm gets. 
+	-> One Algorithm can be use in any other game resulting in more performant way.
+	As more the training with more data the more experienced algorithm gets. 
 ```
 <b> Methods </b>
 ```text
