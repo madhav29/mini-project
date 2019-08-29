@@ -10,7 +10,7 @@ GTA5 in which agent will learn self driving, object detection, objective complet
 of the open world.
 Isn't it amazing to see that what people learn from trial and error can also be simulated in the real but game like environment which
 from game developer perspective has real world experience. As people learn to play games, they tend to learn from their mistakes Out
-idea is more the less same, We want to perform an <b>Evolutionary Algorithms a.k.a Genetic Algorithm</b> in our
+idea is more the less same, We want to perform an <b>Genetic Algorithm</b> in our
 AI Agent which will learn to do all those things which takes a normal
 people to learn a month or even a year.
 In a nutshell we want to demonstrate an fully functional AI agent which can play GTA5 like games better than human using some of the
