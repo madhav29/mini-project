@@ -1,5 +1,6 @@
 ## Python Plays GTA5
 
+![Python Plays GTA 5](https://github.com/Ajay-2007/mini-project/blob/master/Project%20Ideas/images/python_plays_gta5.jpg)
 ### Motivation : 
 ```text
 In early days of Artificial Intelligence were crazy about solving and testing their Algorithms in Games like Puzzles, SAT problems,
