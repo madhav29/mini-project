@@ -1,4 +1,5 @@
 # Unique Question identifier.<br>
+![IIT Question Icon](https://github.com/Ajay-2007/mini-project/blob/master/Project%20Ideas/images/question_prediction.jpg)
 
 Problem Definition</br>
 	Motivation
