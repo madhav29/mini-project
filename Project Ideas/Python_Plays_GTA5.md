@@ -21,18 +21,39 @@ people to learn a month or even a year.
 
 In a nutshell we want to demonstrate an fully functional AI agent which can play GTA5 like games better than human using some of the most popular
 yet ever changing Artificial Intelligence Algorithms and Techniques of Problem Solving. 
+
+Benifit
+	-> The Well Documented Algorithms and use cases can be use as Tutorial.
+	-> Algorithmic Approach to Problem Solving
+	-> One Algorithm can be use in any other game resulting in more performant way. As more the training with more data the more experienced algorithm gets. 
 ```
- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=8KgtJs1Q76U 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<b> Methods </b>
+```text
+- Deep Reinforncement Learning
+- OpenCV Image Processing
+- Some Standard and New AI Algorithms
+```
 
 ### Requirements :
+
+<b>Technology</b>
 ```text
 	- GTA-5 Game (any open world game)
 	- Python
 	- OpenCV
 	- Tensorflow
 	- TFLearn
+```
+
+<b> Dataset</b>
+```text
+- Real time Video streaming data from Video Game
+```
+
+<b> Output and Result </b>
+```text
+- Showcasing the trade offs between different-different Algorithms.
+- Showcasing the Algorithms derived from Nature like Genetic Algorithms, Hill Climbing, Probabilistic Algorithms etc.
+- The model can be used in Any other game 
+
 ```
